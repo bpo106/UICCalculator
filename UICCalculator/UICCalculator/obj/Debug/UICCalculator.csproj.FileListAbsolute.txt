@@ -1,0 +1,7 @@
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\bin\Debug\UICCalculator.exe.config
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\bin\Debug\UICCalculator.exe
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\bin\Debug\UICCalculator.pdb
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\obj\Debug\UICCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\obj\Debug\UICCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\obj\Debug\UICCalculator.exe
+C:\Users\Boldizsár\Home Projects\UICCalculator\UICCalculator\UICCalculator\obj\Debug\UICCalculator.pdb
