@@ -13,15 +13,10 @@ namespace UICCalculator
             int checkDigit = 0;
             while(s.Length > 0)
             {
-                int num = s[0] - 48;
-                if (s.Length % 2 == 1)
-                {
-                    num *= 2;
-                }
-                checkDigit += (num < 10) ? num : num / 10 + num % 10;
+                checkDigit += ((1 + s.Length % 2) * (s[0] - 48)) / 10 + ((1 + s.Length % 2) * (s[0] - 48)) % 10;
                 s = (s.Length == 1) ? "" : s.Substring(1, s.Length - 1);
             }
-            return 10 - (checkDigit % 10);
+            return (10 - (checkDigit % 10)) % 10;
         }
 
         static bool IsCodeRight (string s)
